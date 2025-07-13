@@ -1,9 +1,9 @@
 * Task Manager - Java CLI App
 
 A simple command-line Task Manager built with **Java 17** and **Maven**.  
-This project allows users to add, list, and mark tasks as completed — all through a terminal interface.
+This project allows users to add, list, and mark tasks as completed -- all through a terminal interface.
 
-* � Technologies Used
+* Technologies Used
 
 - Java 17
 - Maven (build & dependency management)
@@ -13,9 +13,10 @@ This project allows users to add, list, and mark tasks as completed — all thro
 
 Getting Started (RUN PROJECT)
 
-1. Make Sure Java and Maven is Installed
+1. Make Sure Java and Maven are Installed
 
 java --version
+
 mvn --version
 
  
