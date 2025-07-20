@@ -1,7 +1,7 @@
 * Task Manager - Java CLI App
 
 A simple command-line Task Manager built with **Java 17** and **Maven**.  
-This project allows users to add, list, and mark tasks as completed -- all through a terminal interface.
+This project enables users to add, list, and mark tasks as completed through a terminal interface.
 
 * Technologies Used
 
@@ -15,24 +15,25 @@ Getting Started (RUN PROJECT)
 
 1. Make Sure Java and Maven are Installed
 
-java --version
+#java --version
 
-mvn --version
+#mvn --version
 
  
 2. Clone the Repository
 
 
 git clone https://github.com/ajajmujawar911/task-manager-cli.git
-cd task-manager-cli
+
+#cd task-manager-cli
 
 3. Build the Project
 
-mvn clean package
+#mvn clean package
 
 
 4. Run the App
 
-java -cp target/task-manager-1.0-SNAPSHOT.jar com.example.TaskManager
+#java -cp target/task-manager-1.0-SNAPSHOT.jar com.example.TaskManager
 
 
